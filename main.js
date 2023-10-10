@@ -30,8 +30,8 @@ var adding = function (name) {
 };
 var a = MakeToDoList();
 var todo1 = make("Do some research");
-var todo2 = make("Reading lecture ");
-var todo3 = make("Do wormap ");
+var todo2 = make("Reading lecture");
+var todo3 = make("Do wormap");
 a.adding(todo1);
 a.adding(todo2);
 a.adding(todo3);
